@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph id="G" edgedefault="undirected">
+    <node id="1 (2.75)"/>
+    <node id="2 (1.27)"/>
+    <node id="3 (8.86)"/>
+    <node id="4 (15.13)"/>
+    <node id="5 (4.79)"/>
+    <node id="6 (6.01)"/>
+    <node id="7 (16.40)"/>
+    <node id="8 (3.26)"/>
+    <node id="9 (9.52)"/>
+    <node id="10 (13.30)"/>
+    <node id="11 (13.08)"/>
+    <node id="12 (0.00)"/>
+    <node id="13 (8.58)"/>
+    <node id="14 (4.32)"/>
+    <node id="15 (5.09)"/>
+    <node id="16 (6.13)"/>
+    <node id="17 (12.12)"/>
+    <node id="18 (10.28)"/>
+    <node id="19 (7.75)"/>
+    <node id="20 (12.82)"/>
+    <node id="21 (10.55)"/>
+    <node id="22 (7.52)"/>
+    <node id="23 (9.17)"/>
+    <node id="24 (8.41)"/>
+    <node id="25 (5.37)"/>
+    <node id="26 (11.32)"/>
+    <node id="27 (1.96)"/>
+    <node id="28 (6.33)"/>
+    <node id="29 (7.32)"/>
+    <node id="30 (13.68)"/>
+    <edge source="12 (0.00)" target="1 (2.75)">
+      <data key="weight">2.7514673535837435</data>
+    </edge>
+    <edge source="1 (2.75)" target="12 (0.00)">
+      <data key="weight">2.7514673535837435</data>
+    </edge>
+    <edge source="12 (0.00)" target="2 (1.27)">
+      <data key="weight">1.2698527617502857</data>
+    </edge>
+    <edge source="2 (1.27)" target="12 (0.00)">
+      <data key="weight">1.2698527617502857</data>
+    </edge>
+    <edge source="28 (6.33)" target="3 (8.86)">
+      <data key="weight">2.5331935509725594</data>
+    </edge>
+    <edge source="3 (8.86)" target="28 (6.33)">
+      <data key="weight">2.5331935509725594</data>
+    </edge>
+    <edge source="16 (6.13)" target="4 (15.13)">
+      <data key="weight">8.995287913150005</data>
+    </edge>
+    <edge source="4 (15.13)" target="16 (6.13)">
+      <data key="weight">8.995287913150005</data>
+    </edge>
+    <edge source="2 (1.27)" target="5 (4.79)">
+      <data key="weight">3.5218132263855786</data>
+    </edge>
+    <edge source="5 (4.79)" target="2 (1.27)">
+      <data key="weight">3.5218132263855786</data>
+    </edge>
+    <edge source="2 (1.27)" target="6 (6.01)">
+      <data key="weight">4.741111053304589</data>
+    </edge>
+    <edge source="6 (6.01)" target="2 (1.27)">
+      <data key="weight">4.741111053304589</data>
+    </edge>
+    <edge source="9 (9.52)" target="7 (16.40)">
+      <data key="weight">6.883641066811451</data>
+    </edge>
+    <edge source="7 (16.40)" target="9 (9.52)">
+      <data key="weight">6.883641066811451</data>
+    </edge>
+    <edge source="2 (1.27)" target="8 (3.26)">
+      <data key="weight">1.9879846303244255</data>
+    </edge>
+    <edge source="8 (3.26)" target="2 (1.27)">
+      <data key="weight">1.9879846303244255</data>
+    </edge>
+    <edge source="6 (6.01)" target="9 (9.52)">
+      <data key="weight">3.505865310145388</data>
+    </edge>
+    <edge source="9 (9.52)" target="6 (6.01)">
+      <data key="weight">3.505865310145388</data>
+    </edge>
+    <edge source="19 (7.75)" target="10 (13.30)">
+      <data key="weight">5.550713455826234</data>
+    </edge>
+    <edge source="10 (13.30)" target="19 (7.75)">
+      <data key="weight">5.550713455826234</data>
+    </edge>
+    <edge source="25 (5.37)" target="11 (13.08)">
+      <data key="weight">7.710179115522228</data>
+    </edge>
+    <edge source="11 (13.08)" target="25 (5.37)">
+      <data key="weight">7.710179115522228</data>
+    </edge>
+    <edge source="27 (1.96)" target="13 (8.58)">
+      <data key="weight">6.618124011263739</data>
+    </edge>
+    <edge source="13 (8.58)" target="27 (1.96)">
+      <data key="weight">6.618124011263739</data>
+    </edge>
+    <edge source="8 (3.26)" target="14 (4.32)">
+      <data key="weight">1.062017850133337</data>
+    </edge>
+    <edge source="14 (4.32)" target="8 (3.26)">
+      <data key="weight">1.062017850133337</data>
+    </edge>
+    <edge source="2 (1.27)" target="15 (5.09)">
+      <data key="weight">3.822490645453585</data>
+    </edge>
+    <edge source="15 (5.09)" target="2 (1.27)">
+      <data key="weight">3.822490645453585</data>
+    </edge>
+    <edge source="12 (0.00)" target="16 (6.13)">
+      <data key="weight">6.1344942252529915</data>
+    </edge>
+    <edge source="16 (6.13)" target="12 (0.00)">
+      <data key="weight">6.1344942252529915</data>
+    </edge>
+    <edge source="23 (9.17)" target="17 (12.12)">
+      <data key="weight">2.9473110849886095</data>
+    </edge>
+    <edge source="17 (12.12)" target="23 (9.17)">
+      <data key="weight">2.9473110849886095</data>
+    </edge>
+    <edge source="2 (1.27)" target="18 (10.28)">
+      <data key="weight">9.009231337571228</data>
+    </edge>
+    <edge source="18 (10.28)" target="2 (1.27)">
+      <data key="weight">9.009231337571228</data>
+    </edge>
+    <edge source="12 (0.00)" target="19 (7.75)">
+      <data key="weight">7.746871176743461</data>
+    </edge>
+    <edge source="19 (7.75)" target="12 (0.00)">
+      <data key="weight">7.746871176743461</data>
+    </edge>
+    <edge source="21 (10.55)" target="20 (12.82)">
+      <data key="weight">2.271213738932827</data>
+    </edge>
+    <edge source="20 (12.82)" target="21 (10.55)">
+      <data key="weight">2.271213738932827</data>
+    </edge>
+    <edge source="6 (6.01)" target="21 (10.55)">
+      <data key="weight">4.540371545531464</data>
+    </edge>
+    <edge source="21 (10.55)" target="6 (6.01)">
+      <data key="weight">4.540371545531464</data>
+    </edge>
+    <edge source="1 (2.75)" target="22 (7.52)">
+      <data key="weight">4.765891261059323</data>
+    </edge>
+    <edge source="22 (7.52)" target="1 (2.75)">
+      <data key="weight">4.765891261059323</data>
+    </edge>
+    <edge source="2 (1.27)" target="23 (9.17)">
+      <data key="weight">7.898806285679445</data>
+    </edge>
+    <edge source="23 (9.17)" target="2 (1.27)">
+      <data key="weight">7.898806285679445</data>
+    </edge>
+    <edge source="6 (6.01)" target="24 (8.41)">
+      <data key="weight">2.401452635794743</data>
+    </edge>
+    <edge source="24 (8.41)" target="6 (6.01)">
+      <data key="weight">2.401452635794743</data>
+    </edge>
+    <edge source="27 (1.96)" target="25 (5.37)">
+      <data key="weight">3.4110698363051624</data>
+    </edge>
+    <edge source="25 (5.37)" target="27 (1.96)">
+      <data key="weight">3.4110698363051624</data>
+    </edge>
+    <edge source="6 (6.01)" target="26 (11.32)">
+      <data key="weight">5.305520360471168</data>
+    </edge>
+    <edge source="26 (11.32)" target="6 (6.01)">
+      <data key="weight">5.305520360471168</data>
+    </edge>
+    <edge source="12 (0.00)" target="27 (1.96)">
+      <data key="weight">1.9613656409602451</data>
+    </edge>
+    <edge source="27 (1.96)" target="12 (0.00)">
+      <data key="weight">1.9613656409602451</data>
+    </edge>
+    <edge source="12 (0.00)" target="28 (6.33)">
+      <data key="weight">6.325234065170459</data>
+    </edge>
+    <edge source="28 (6.33)" target="12 (0.00)">
+      <data key="weight">6.325234065170459</data>
+    </edge>
+    <edge source="12 (0.00)" target="29 (7.32)">
+      <data key="weight">7.318267817888836</data>
+    </edge>
+    <edge source="29 (7.32)" target="12 (0.00)">
+      <data key="weight">7.318267817888836</data>
+    </edge>
+    <edge source="3 (8.86)" target="30 (13.68)">
+      <data key="weight">4.821361640968844</data>
+    </edge>
+    <edge source="30 (13.68)" target="3 (8.86)">
+      <data key="weight">4.821361640968844</data>
+    </edge>
+  </graph>
+</graphml>
